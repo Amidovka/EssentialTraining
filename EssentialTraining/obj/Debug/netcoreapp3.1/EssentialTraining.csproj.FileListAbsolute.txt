@@ -1,0 +1,10 @@
+D:\Backend\repos\EssentialTraining\EssentialTraining\bin\Debug\netcoreapp3.1\EssentialTraining.deps.json
+D:\Backend\repos\EssentialTraining\EssentialTraining\bin\Debug\netcoreapp3.1\EssentialTraining.dll
+D:\Backend\repos\EssentialTraining\EssentialTraining\bin\Debug\netcoreapp3.1\EssentialTraining.pdb
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.AssemblyInfoInputs.cache
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.AssemblyInfo.cs
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.csproj.CoreCompileInputs.cache
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.dll
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.pdb
+D:\Backend\repos\EssentialTraining\EssentialTraining\obj\Debug\netcoreapp3.1\EssentialTraining.csproj.AssemblyReference.cache
